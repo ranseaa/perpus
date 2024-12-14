@@ -1,7 +1,7 @@
 # perpus
-Nama Project ini adalah : CuyPerpus
+Nama Project ini adalah : PP
 
-CuyPerpus adalah sebuah aplikasi berbasis website yang memberikan pelayanan berupa sistem peminjaman dan pengelolaan buku perpustakaan.
+PP adalah sebuah aplikasi berbasis website yang memberikan pelayanan berupa sistem peminjaman dan pengelolaan buku perpustakaan.
 
 website ini dibuat menggunakan framework bootstrap, javascript, php dan database mysql.
 
@@ -21,4 +21,4 @@ Fitur fitur yang terdapat didalam aplikasi ini :
   - membayar denda
 
 
-Created by Mangandaralam Sakti - Student At SMKN 1 Jakarta
+Created by Siti Ratna J - Student At SMKN 1 Ciomas
